@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a116f5d70165c3d4ba88d5cd4277f261
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - firstPersonCamera: {instanceID: 0}
+  - gunModel: {fileID: 1426552063174414077, guid: a98c00fb08569674ea040869f3f1bd1e,
+      type: 3}
+  - projectile: {fileID: 1146619211332210512, guid: 2df26bf200462c245991cac9079970c5,
+      type: 3}
+  - arcTic: {fileID: 2551799615015459909, guid: baa5aecca1405e148ac1a6c836f245e2,
+      type: 3}
+  - gunCam: {fileID: 1053857656124575573, guid: bc43efb8abb43be4ea559124b4b42d9e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
